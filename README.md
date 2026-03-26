@@ -12,6 +12,12 @@ The system integrates:
 - Hybrid Recommendation
 - Streamlit-based user interface
 
+### 📸 System Interface
+
+![App Screenshot](example.png)
+![App Screenshot](example2.png)
+![App Screenshot](example3.png)
+
 ## Objectives
 
 The main objectives of this project are:
