@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+
+# Large model / serialized files
+*.pkl
+*.pickle
+Pickle/
+
+# Large dataset files
+MovieRecommendationSystem/credits.csv
+
+# OS / editor
+.DS_Store
+desktop.ini
+.vscode/
+.idea/
